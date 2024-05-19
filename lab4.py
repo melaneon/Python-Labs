@@ -1,7 +1,8 @@
 #Melaniia Frolova
 #A01391948
-import login
-import data_format
+import lab4_login
+import lab4_data_format
+
 def main():
     first_name = input("Enter your first name: ").title()
     last_name = input("Enter your last name: ").title()
