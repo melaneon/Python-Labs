@@ -1,7 +1,7 @@
 # Melaniia Frolova
 # A01391948
 
-import utilities
+import lab2_utilities
 
 def main():
     #calculate circle radius
